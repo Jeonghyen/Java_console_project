@@ -1,0 +1,13 @@
+1,1,1,null,null
+2,2,4,null,null
+3,3,2,null,null
+4,4,5,null,null
+5,5,4,null,null
+6,6,1,null,null
+7,7,4,null,null
+8,8,2,null,null
+9,9,5,null,null
+10,10,null,null,null
+11,17,1,null,null
+12,null,1,null,null
+13,20,null,null,null
